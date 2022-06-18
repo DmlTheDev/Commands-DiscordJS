@@ -1,4 +1,4 @@
-import { MessageEmbed, Options } from "discord.js";
+import { MessageEmbed, Options } from "discord.js"; #Test
 import { ICommand } from "wokcommands";
 
 export default {
